@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines a locked class."""
+#"""Defines a locked class."""
 
 
 class LockedClass:
@@ -9,4 +9,4 @@ class LockedClass:
     """
 
     __slots__ = ["first_name"]
-    
+  
